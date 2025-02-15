@@ -26,7 +26,8 @@ Aplikacja umożliwia firmom śledzenie i zarządzanie sprzętem IT.
 🔄 Integracja z **Power BI, Outlook API, QR Code Generator**  
 
 🔹 **Diagram UML:**  
-![Diagram bez tytułu drawio](https://github.com/user-attachments/assets/1275e8a2-d7c8-4612-8dca-99d170d06e11)
+![EquipmentManagement drawio](https://github.com/user-attachments/assets/4fc8193e-f69b-4193-9e6e-e1b35e35756e)
+
 
 
 🔹 **Zobacz kod:**  
