@@ -67,4 +67,4 @@ A web application that enables companies to track and manage IT equipment.
 
 ## 📬 Contact  
 📧 Email: **mirasowsky@gmail.com**  
-🔗 LinkedIn: [[linkedin.com/in/twojprofil](https://linkedin.com/in/twojprofil)](https://www.linkedin.com/in/pawe%C5%82-mirecki-87936a2b4/)  
+🔗 LinkedIn: (https://www.linkedin.com/in/pawe%C5%82-mirecki-87936a2b4/)  
