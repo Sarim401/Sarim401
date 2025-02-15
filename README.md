@@ -29,7 +29,8 @@ A web application that enables companies to track and manage IT equipment.
 - **Ports and Adapters (Hexagonal Architecture)** – For separation of concerns  
 
 🔹 **UML Diagram:**  
-![EquipmentManagement drawio](https://github.com/user-attachments/assets/4fc8193e-f69b-4193-9e6e-e1b35e35756e)
+![ang drawio](https://github.com/user-attachments/assets/2a6bf886-ee48-4214-bcf7-bc37efd4ddd6)
+
 
 🔹 **View the Code:**  
 📂 [Project Repository](https://github.com/Sarim401/Sarim401-EquipmentManagement)  
