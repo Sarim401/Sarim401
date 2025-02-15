@@ -4,10 +4,6 @@
 🎯 Specjalizuję się w **C# .NET**, ale lubię również **TypeScript** i **React**.
 🚀 Tworzę nowoczesne aplikacje webowe z **.NET Web API** oraz interaktywne interfejsy użytkownika w **React**.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 
 ---
 
