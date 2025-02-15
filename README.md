@@ -11,7 +11,7 @@
 A web application that enables companies to track and manage IT equipment.  
 
 🔹 **Technologies:**  
-- **Backend:** ASP.NET Core 8, Entity Framework Core, MediatR, Quartz.NET  
+- **Backend:** ASP.NET Core 8, Entity Framework Core, Quartz.NET  
 - **Backend Testing:** xUnit, Moq  
 - **Frontend:** React, TypeScript, Tailwind CSS, React Query  
 - **Database:** MS SQL Server  
@@ -27,7 +27,6 @@ A web application that enables companies to track and manage IT equipment.
 🔹 **Architectural Patterns Used:**  
 - **MVC** – Used for structuring the application  
 - **Ports and Adapters (Hexagonal Architecture)** – For separation of concerns  
-- **CQRS (Command Query Responsibility Segregation)** – Implemented using MediatR  
 
 🔹 **UML Diagram:**  
 ![EquipmentManagement drawio](https://github.com/user-attachments/assets/4fc8193e-f69b-4193-9e6e-e1b35e35756e)
