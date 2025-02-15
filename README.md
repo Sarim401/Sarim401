@@ -1,7 +1,7 @@
 # 👋 Cześć! Jestem Paweł
 
 💻 Jestem programistą specjalizującym się w **C# .NET** i **React**.  
-💻 Specjalizuję się w **C# .NET**, ale lubię również **TypeScript** i **React**.
+🎯 Specjalizuję się w **C# .NET**, ale lubię również **TypeScript** i **React**.
 🚀 Tworzę nowoczesne aplikacje webowe z **.NET Web API** oraz interaktywne interfejsy użytkownika w **React**.
 
 ---
